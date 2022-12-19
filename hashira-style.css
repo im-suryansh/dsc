@@ -1,0 +1,7 @@
+
+.container{
+    display: grid;
+    grid-template-areas: "back navbar" "prev hashira-body next";
+    grid-template-columns: 1fr 12fr;
+    grid-template-rows: 1fr 8fr;
+}
